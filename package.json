@@ -12,6 +12,7 @@
     "expo": "^37.0.9",
     "firebase": "^7.23.0",
     "logkitty": "^0.7.1",
+    "mem": "^8.0.0",
     "native-base": "^2.13.12",
     "node-fetch": "^2.6.1",
     "react": "~16.9.0",
